@@ -1,4 +1,21 @@
-{% extends 'base.html' %}
-{% block content%}
-<h1>Home</h1>
-{% endblock %}
+{% load static %}
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link href="https://fonts.googleapis.com/css?family=Press+Start+2P" rel="stylesheet">
+    <link rel="stylesheet" type="text/css" href="{% static 'css/style.css' %}">
+    <title>8-bit Archive</title>
+</head>
+<body class="main">
+    <div class="title">
+        <h1>8-bit</h1><br>
+        <h1>Archive</h1><br>
+        <h4>A DJANGO FRAMEWORK WEB APP</h4><br><br><br>
+        <h3><a href="{% url 'about' %}">START</a></h3><br><br><br><br><br>
+
+        <h5>© 2020 Masters of Detail</h5>
+    </div>
+</body>
+</html>

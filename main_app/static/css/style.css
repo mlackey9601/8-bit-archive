@@ -1,4 +1,21 @@
-.left brand-logo {
+.main {
+    background-image: url("../images/synthwave.jpg");
+    background-size: cover;
+}
+.title {
+    color:white;
     font-family: 'Press Start 2P', cursive;
-    font-size: 10px;
+    text-align: center;
+}
+body {
+    background-color: rgb(44, 41, 67);
+    color: #D81B60;
+}
+a {
+    color: #D81B60;
+    text-decoration: none;
+}
+a:hover {
+    color: #F8BBD0;
+    text-decoration: none;
 }
