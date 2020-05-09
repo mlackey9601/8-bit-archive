@@ -15,7 +15,7 @@
 
 ### ***Description***
 
-##### 8-Bit Archive is a video game tracking application that allows anyone to add video games to collections for easy sorting and reference.
+##### 8-bit Archive is a video game tracking application that allows anyone to add video games to collections for easy sorting and reference.
 ***
 
 ### ***Technologies Used***
@@ -43,7 +43,7 @@
 ***
 
 ### ***Credits***
-##### CSS: [Materialize](https://materializecss.com/)
+##### CSS Styling: [Materialize](https://materializecss.com/)
 ***
 
 ### ***Future Updates***
